@@ -1,4 +1,4 @@
-# 🛡️ Secure Insight Hub
+# 🛡️ SentinelIQ
 
 > **AI-Powered Security Operations Platform**
 
